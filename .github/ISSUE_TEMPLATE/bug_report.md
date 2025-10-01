@@ -1,9 +1,10 @@
 ---
-name: 'Bug Report'
-about: 'Create a report to help us improve'
-title: "Bug: [Brief Description]"
+name: Bug Report
+about: Create a report to help us improve
+title: 'Bug: [Brief Description]'
 labels: bug
 assignees: ''
+
 ---
 
 ## 🐛 Bug Description
